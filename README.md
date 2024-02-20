@@ -35,9 +35,6 @@ On game startup, commands are displayed on-screen for user reference.
 ## Dependencies
 The project relies on external assets contained within the `10-Tangram>Pieces` folder, including pieces and textures used for the pieces, environment, and tray.
 
-## Challenges and Assignments
-Within the `Assignments` folder, you'll find a series of small challenges that were solved over the course of the class, serving as preparatory work for the development of this project. These include exercises on first-person view, shader and texture management, and commands management.
-
 ## Contributing
 This project was developed for academic purposes and is not currently seeking contributions. However, feedback and suggestions are welcome.
 Special thanks to my colleague and team mate MAria Chiara di Falco
