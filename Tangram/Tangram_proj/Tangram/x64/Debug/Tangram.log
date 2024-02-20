@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\admin\desktop\lorenzo\progetto\tangram_proj\tangram\main.cpp(663): warning C4267: 'inizializzazione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+c:\users\admin\desktop\lorenzo\progetto\tangram_proj\tangram\main.cpp(646): warning C4101: 'delta': variabile locale senza riferimenti
+c:\users\admin\desktop\lorenzo\progetto\tangram_proj\tangram\main.cpp(2109): warning C4267: 'inizializzazione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+c:\users\admin\desktop\lorenzo\progetto\tangram_proj\tangram\main.cpp(2112): warning C4267: 'inizializzazione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+  Tangram.vcxproj -> C:\Users\admin\Desktop\lorenzo\progetto\Tangram_proj\Tangram\x64\Debug\Tangram.exe
